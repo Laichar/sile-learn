@@ -1,0 +1,28 @@
+\begin[class=jplain,layout=tate]{document}\nofolios%
+%\show-hanmen%
+\script[src=packages/ruby]
+\font[family=Typography Old P,language=zh-HK]%
+    \ruby[reading=ㄓㄨㄥ]{中}\ruby[reading=ㄏㄨㄚˊ]{華}\ruby[reading=ㄇㄧㄣˊ]{民}\ruby[reading=ㄍㄨㄛˊ]{國}\ruby[reading=ㄍㄨㄛˊ]{國}\ruby[reading=ㄇㄧㄣˊ]{民}\ruby[reading=ㄉㄚˋ]{大}\ruby[reading=ㄏㄨㄟˋ]{會}受全體國民之付託，依據孫中山先生創立中華民國之遺教，為鞏固國權，保障民權，奠定社會安寧，增進人民福利，制定本憲法，頒行全國，永矢咸遵。
+
+第一章 總綱
+
+第一條 （國體）
+    　　中華民國基於三民主義，為民有民治民享之民主共和國。
+
+第二條 （主權在民）
+    　　中華民國之主權屬於國民全體。
+
+第三條 （國民）
+    　　具有中華民國國籍者為中華民國國民。
+
+第四條 （國土）
+    　　中華民國領土，依其固有之疆域，非經國民大會之決議，不得變更之。
+
+第五條 （民族平等）
+    　　中華民國各民族一律平等。
+
+第六條 （國旗）
+    　　中華民國國旗定為紅地，左上角青天白日。
+
+囘䈎
+\end{document}
