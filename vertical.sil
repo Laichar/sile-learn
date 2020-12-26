@@ -1,7 +1,7 @@
 \begin[class=jplain,layout=tate]{document}\nofolios%
 %\show-hanmen%
 \script[src=packages/ruby]
-\font[family=Typography Old P,language=zh-HK]%
+\font[family=Songti TC,language=zh-HK]%
     \ruby[reading=ㄓㄨㄥ]{中}\ruby[reading=ㄏㄨㄚˊ]{華}\ruby[reading=ㄇㄧㄣˊ]{民}\ruby[reading=ㄍㄨㄛˊ]{國}\ruby[reading=ㄍㄨㄛˊ]{國}\ruby[reading=ㄇㄧㄣˊ]{民}\ruby[reading=ㄉㄚˋ]{大}\ruby[reading=ㄏㄨㄟˋ]{會}受全體國民之付託，依據孫中山先生創立中華民國之遺教，為鞏固國權，保障民權，奠定社會安寧，增進人民福利，制定本憲法，頒行全國，永矢咸遵。
 
 第一章 總綱
